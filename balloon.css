@@ -1,0 +1,20 @@
+body {
+    background-color: #1e90ff;
+    color: #f0f8ff;
+    font-family:"HG丸ｺﾞｼｯｸM-PRO","HGMaruGothicMPRO","ヒラギノ丸ゴ Pro W4","ヒラギノ丸ゴ Pro","Hiragino Maru Gothic Pro";
+    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+input {
+    height: 20px;
+}
+
+button {
+    padding: 2px 5px;
+    background-color: #0000cd;
+    color: #f0f8ff;
+    border-style: none;
+    border-radius: 7px;
+}
