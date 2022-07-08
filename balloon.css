@@ -18,3 +18,11 @@ button {
     border-style: none;
     border-radius: 7px;
 }
+
+#circle1 {
+    display: inline-block;
+    background-color: #ff4500;
+    width: 100px;
+    height: 100px;
+    border-radius: 49% 51% 52% 48% / 33% 31% 69% 67% ;
+}
